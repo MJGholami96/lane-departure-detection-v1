@@ -1,2 +1,5 @@
+data/input/*.mp4 filter=lfs diff=lfs merge=lfs -text
+results/*.gif filter=lfs diff=lfs merge=lfs -text
+results/*.mp4 filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.gif filter=lfs diff=lfs merge=lfs -text
