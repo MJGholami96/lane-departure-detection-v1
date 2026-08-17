@@ -172,7 +172,6 @@ This project is based on classical computer vision techniques and may be affecte
 - Shadows and reflections
 - Camera movement
 - Missing lane boundaries
-- Future Improvements
 
 ## Future Improvements
 
